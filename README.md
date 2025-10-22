@@ -1,7 +1,7 @@
 ☕ Brews Brothers Coffee — Website Project
 
 --------------------------------------------------------------------------------
-About the Project
+📖 About the Project
 --------------------------------------------------------------------------------
 **Brews Brothers Coffee** is a responsive HTML & CSS website inspired by a local
 coffee shop. It showcases the café’s atmosphere, menu, and story while
@@ -11,8 +11,9 @@ This project was built as a personal and educational exercise in web development
 focusing on structure, style, and responsive design rather than backend logic.
 
 --------------------------------------------------------------------------------
-Project Structure
+📁 Project Structure
 --------------------------------------------------------------------------------
+
 ```
 ├── index.html              # Main landing page
 ├── css/                    # Stylesheets directory
@@ -30,51 +31,56 @@ Project Structure
     └── menu.html
     └── shop.html   
 ```
---------------------------------------------------------------------------------
-Build / Usage Instructions
---------------------------------------------------------------------------------
-1. Clone or download the repository:
-   > git clone https://github.com/g-farrelly/Brews-Brothers-Coffee.git
-2. Open `index.html` in your web browser.
-3. Navigate through the site using the navigation bar.
-4. To customise or extend the website:
-   • Modify `css/styles.css` for colours, fonts, and layout  
-   • Replace or add images in the `images/` folder  
-   • Add or edit HTML pages in the `pages/` directory  
-   • Check all relative links after changes  
 
 --------------------------------------------------------------------------------
-Key Features
+🚀 How to View the Website
 --------------------------------------------------------------------------------
-• Responsive layout — optimised for desktop, tablet, and mobile  
-• Clean, modern styling using pure CSS  
-• Simple navigation with consistent theme  
-• Easily customisable for another café or small business  
-• Educational example of HTML structure and CSS organisation  
+You can view the live version of this website through **GitHub Pages** at:
+
+🌐 **https://g-farrelly.github.io/Brews-Brothers-Coffee/**
+
+Alternatively, you can:
+1. Download or clone the repository  
+2. Open `index.html` directly in your web browser  
 
 --------------------------------------------------------------------------------
-Future Enhancements
+✨ Key Features
 --------------------------------------------------------------------------------
-• Add JavaScript for interactivity (e.g., menu filtering, image carousel)  
-• Optimise image assets and implement lazy-loading  
-• Add a contact form or booking feature  
-• Improve accessibility (ARIA roles, semantic tags)  
-• Deploy using GitHub Pages for live preview  
+✅ Fully responsive layout — works on desktop, tablet, and mobile  
+✅ Clean, modern styling with pure CSS  
+✅ Simple and intuitive navigation  
+✅ Easily customisable for other cafés or small businesses  
+✅ Great example of HTML structure and CSS organisation  
 
 --------------------------------------------------------------------------------
-Author
+🛠️ Future Enhancements
+--------------------------------------------------------------------------------
+- ☕ Add JavaScript for interactivity (menu filters, image sliders)
+- 📸 Optimise and lazy-load images
+- 📬 Add a contact form or newsletter signup
+- ♿ Improve accessibility (ARIA roles, semantic tags)
+- 🚀 Deploy with analytics or a simple CMS integration
+
+--------------------------------------------------------------------------------
+👨‍💻 Author
 --------------------------------------------------------------------------------
 **Gavin Farrelly**  
-BSc Computer Science — University College Dublin  
-GitHub: https://github.com/g-farrelly  
+🎓 BSc Computer Science — University College Dublin  
+💼 Interested in Software Engineering, Automation & AI  
+🌐 GitHub: https://github.com/g-farrelly
 
 --------------------------------------------------------------------------------
-License & Usage Notice
+📜 License & Usage Notice
 --------------------------------------------------------------------------------
 © 2025 Gavin Farrelly.  
 This project was created for educational and demonstration purposes.  
 All rights to the “Brews Brothers Coffee” name, logo, and related brand materials
 belong to their respective owners.  
+
+You may view and reference this project’s HTML and CSS code for learning,
+but redistribution or commercial use of design assets, images, or branding is not
+permitted without explicit permission.
+
 
 You may view and reference this project’s HTML and CSS code for learning,
 but redistribution or commercial use of design assets, images, or branding is not

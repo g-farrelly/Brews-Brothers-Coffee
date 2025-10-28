@@ -3,7 +3,7 @@
 --------------------------------------------------------------------------------
 📖 About the Project
 --------------------------------------------------------------------------------
-**Brews Brothers Coffee** is a responsive HTML & CSS website inspired by a local
+**Brews Brothers Coffee** is a desktop HTML & CSS website inspired by a local
 coffee shop. It showcases the café’s atmosphere, menu, and story while
 demonstrating front-end web design and layout fundamentals.
 
